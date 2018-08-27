@@ -1,0 +1,506 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1600px;
+	 height: 2412px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 2412px;
+	 z-index:1;
+} 
+
+ #Rectangle8copy 
+{ 
+	 left: -1px; 
+	 top: 2306px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 107px;
+	 z-index:2;
+} 
+
+ #Rectangle8 
+{ 
+	 left: -1px; 
+	 top: 1846px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 463px;
+	 z-index:3;
+} 
+
+ #Shape4 
+{ 
+	 left: 208px; 
+	 top: 1925px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 4px;
+	 z-index:4;
+} 
+
+ #Shape3 
+{ 
+	 left: 208px; 
+	 top: 1925px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 4px;
+	 z-index:5;
+} 
+
+ #Shape4copy 
+{ 
+	 left: 588px; 
+	 top: 1925px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 4px;
+	 z-index:6;
+} 
+
+ #Shape3copy 
+{ 
+	 left: 588px; 
+	 top: 1925px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 4px;
+	 z-index:7;
+} 
+
+ #Shape4copy2 
+{ 
+	 left: 988px; 
+	 top: 1925px; 
+	 position: absolute; 
+	 width: 404px;
+	 height: 4px;
+	 z-index:8;
+} 
+
+ #Shape3copy2 
+{ 
+	 left: 987px; 
+	 top: 1925px; 
+	 position: absolute; 
+	 width: 204px;
+	 height: 4px;
+	 z-index:9;
+} 
+
+ #Layer11 
+{ 
+	 left: 990px; 
+	 top: 1963px; 
+	 position: absolute; 
+	 width: 401px;
+	 height: 260px;
+	 z-index:10;
+} 
+
+ #Layer12 
+{ 
+	 left: 590px; 
+	 top: 1968px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 118px;
+	 z-index:11;
+} 
+
+ #Layer13 
+{ 
+	 left: 730px; 
+	 top: 1968px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 118px;
+	 z-index:12;
+} 
+
+ #Layer14 
+{ 
+	 left: 590px; 
+	 top: 2106px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 118px;
+	 z-index:13;
+} 
+
+ #Layer15 
+{ 
+	 left: 730px; 
+	 top: 2106px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 118px;
+	 z-index:14;
+} 
+
+ #Copyright2017AllRigh 
+{ 
+	 left: 586px; 
+	 top: 2348px; 
+	 position: absolute; 
+	 width: 578px;
+	 height: 20px;
+	 z-index:15;
+} 
+
+ #VideooftheDay 
+{ 
+	 left: 993px; 
+	 top: 1901px; 
+	 position: absolute; 
+	 width: 196px;
+	 height: 27px;
+	 z-index:16;
+} 
+
+ #OurTeam 
+{ 
+	 left: 595px; 
+	 top: 1902px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 20px;
+	 z-index:17;
+} 
+
+ #LoremIpsumissimplydu 
+{ 
+	 left: 214px; 
+	 top: 1967px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 258px;
+	 z-index:18;
+} 
+
+ #KnowUs 
+{ 
+	 left: 215px; 
+	 top: 1902px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 20px;
+	 z-index:19;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 208px; 
+	 top: 398px; 
+	 position: absolute; 
+	 width: 1184px;
+	 height: 1392px;
+	 z-index:20;
+} 
+
+ #Rectangle9 
+{ 
+	 left: 268px; 
+	 top: 521px; 
+	 position: absolute; 
+	 width: 1064px;
+	 height: 311px;
+	 z-index:21;
+} 
+
+ #Shape1copy 
+{ 
+	 left: 268px; 
+	 top: 1694px; 
+	 position: absolute; 
+	 width: 603px;
+	 height: 4px;
+	 z-index:22;
+} 
+
+ #noun939012cc 
+{ 
+	 left: 910px; 
+	 top: 694px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 18px;
+	 z-index:23;
+} 
+
+ #noun686737cc 
+{ 
+	 left: 910px; 
+	 top: 638px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 24px;
+	 z-index:24;
+} 
+
+ #Rectangle10 
+{ 
+	 left: 269px; 
+	 top: 879px; 
+	 position: absolute; 
+	 width: 582px;
+	 height: 75px;
+	 z-index:25;
+} 
+
+ #Rectangle10copy 
+{ 
+	 left: 269px; 
+	 top: 974px; 
+	 position: absolute; 
+	 width: 582px;
+	 height: 75px;
+	 z-index:26;
+} 
+
+ #Rectangle10copy3 
+{ 
+	 left: 269px; 
+	 top: 1069px; 
+	 position: absolute; 
+	 width: 582px;
+	 height: 75px;
+	 z-index:27;
+} 
+
+ #Rectangle10copy4 
+{ 
+	 left: 269px; 
+	 top: 1165px; 
+	 position: absolute; 
+	 width: 582px;
+	 height: 433px;
+	 z-index:28;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 588px; 
+	 top: 1651px; 
+	 position: absolute; 
+	 width: 263px;
+	 height: 70px;
+	 z-index:29;
+} 
+
+ #Rectangle10copy2 
+{ 
+	 left: 908px; 
+	 top: 879px; 
+	 position: absolute; 
+	 width: 424px;
+	 height: 719px;
+	 z-index:30;
+} 
+
+ #Layer16 
+{ 
+	 left: 913px; 
+	 top: 884px; 
+	 position: absolute; 
+	 width: 415px;
+	 height: 911px;
+	 z-index:31;
+} 
+
+ #Submit 
+{ 
+	 left: 676px; 
+	 top: 1677px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 20px;
+	 z-index:32;
+	 border: none;
+    	 color: white;    
+    	 text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+
+} 
+
+ #Message 
+{ 
+	 left: 304px; 
+	 top: 1211px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 19px;
+	 z-index:33;
+} 
+
+ #Phone 
+{ 
+	 left: 304px; 
+	 top: 1100px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 16px;
+	 z-index:34;
+} 
+
+ #Email 
+{ 
+	 left: 304px; 
+	 top: 1005px; 
+	 position: absolute; 
+	 width: 56px;
+	 height: 16px;
+	 z-index:35;
+} 
+
+ #Name 
+{ 
+	 left: 304px; 
+	 top: 913px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 15px;
+	 z-index:36;
+} 
+
+ #infogmailcom 
+{ 
+	 left: 959px; 
+	 top: 692px; 
+	 position: absolute; 
+	 width: 141px;
+	 height: 20px;
+	 z-index:37;
+} 
+
+ #layer_442071935124 
+{ 
+	 left: 959px; 
+	 top: 645px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 13px;
+	 z-index:38;
+} 
+
+ #SapphireSuite13th14t 
+{ 
+	 left: 335px; 
+	 top: 678px; 
+	 position: absolute; 
+	 width: 224px;
+	 height: 47px;
+	 z-index:39;
+} 
+
+ #Title 
+{ 
+	 left: 334px; 
+	 top: 628px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 20px;
+	 z-index:40;
+} 
+
+ #ContactUs 
+{ 
+	 left: 267px; 
+	 top: 460px; 
+	 position: absolute; 
+	 width: 206px;
+	 height: 29px;
+	 z-index:41;
+} 
+
+ #HeaderBox 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 353px;
+	 z-index:42;
+} 
+
+ #Line 
+{ 
+	 left: -1px; 
+	 top: 252px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 4px;
+	 z-index:43;
+} 
+
+ #page404 
+{ 
+	 left: 929px; 
+	 top: 294px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 22px;
+	 z-index:44;
+} 
+
+ #About 
+{ 
+	 left: 814px; 
+	 top: 293px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 18px;
+	 z-index:45;
+} 
+
+ #Contact 
+{ 
+	 left: 678px; 
+	 top: 293px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 17px;
+	 z-index:46;
+} 
+
+ #Home 
+{ 
+	 left: 570px; 
+	 top: 295px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 17px;
+	 z-index:47;
+} 
+
+ #logo 
+{ 
+	 left: 676px; 
+	 top: 17px; 
+	 position: absolute; 
+	 width: 267px;
+	 height: 237px;
+	 z-index:48;
+} 
